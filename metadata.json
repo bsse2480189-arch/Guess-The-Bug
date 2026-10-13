@@ -1,0 +1,6 @@
+{
+  "name": "Guess The Bug!",
+  "description": "Developer trivia and code debugging game. Identify bugs in Python, JavaScript, C++, and Java across Daily Challenges, Multiplayer, and Practice modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
